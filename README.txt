@@ -1,2 +1,0 @@
-# Cryptography
-Cryptography Algorithm Implementations
